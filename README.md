@@ -5,7 +5,7 @@ The proliferation of both satirical news, embodied by outlets like The Onion, an
 ## Data Description
 
 ### Overview of the Dataset:
-For our semantic embeddings analysis in satirical vs. non-satirical news headlines, we utilized a dataset available from the following [GitHub repository](https://github.com/lukefeilberg/onion). This dataset is specifically designed for distinguishing between satirical and non-satirical news titles, making it an ideal resource for our study, and it was large enough to provide a sufficient sample size for our analysis.
+For our analysis in satirical vs. non-satirical news headlines, we utilized a dataset available from the following [GitHub repository](https://github.com/lukefeilberg/onion). This dataset is specifically designed for distinguishing between satirical and non-satirical news titles, making it an ideal resource for our study, and it was large enough to provide a sufficient sample size for our purpose.
 
 ### What is the Onion?
 The Onion is a satirical news organization that publishes articles and headlines that are intended to be humorous and satirical. 
