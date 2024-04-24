@@ -24,4 +24,4 @@ It includes a diverse range of topics and styles, reflecting the wide array of s
 It does not need any cleaning or preprocessing, as it is already formatted in a way that is conducive to our analysis.
 
 ## Reproducing the Study
-Using the code here and the data here.
+Using the code here and the data [here](https://github.com/silvainfm/SatireOrNot/blob/main/final_code.ipynb).
